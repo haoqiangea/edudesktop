@@ -1,0 +1,4 @@
+version: 1.1.1
+files:
+  - url: https://github.com/haoqiangea/edudesktop/releases/download/V1.1.1/shubo-Setup-1.1.1.exe
+    sha512: <s5d89dca08b67609b9e6f5a9eaceb3125260639564c4bd97f2fa013185f5ef948b3de70ad60586ab413e8cad2a50458b8018dcaca52f0f9660becd9aa197bd7e7>
