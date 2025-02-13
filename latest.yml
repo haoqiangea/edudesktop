@@ -1,11 +1,11 @@
 version: 1.1.2
 files:
-  - url: https://github.com/haoqiangea/edudesktop/releases/download/V1.1.2/shubo-Setup-1.1.2.exe
-    sha512: 3KmguaKrLAx1mXl6O9eJj3IC9LmBAQzZ7c4ramsVrklODGXqAcwWxNX7ZwiX8GuA3OBCsIwc/t3Mo2QwvxiQMw==
-    size: 83464006
-path: shubo-Setup-1.1.2.exe
-sha512: 3KmguaKrLAx1mXl6O9eJj3IC9LmBAQzZ7c4ramsVrklODGXqAcwWxNX7ZwiX8GuA3OBCsIwc/t3Mo2QwvxiQMw==
+  - url: https://github.com/haoqiangea/edudesktop/releases/download/V1.1.2/shubo_1.1.2_win32_x64_installer.exe
+    sha512: se+VuES0+xotjdaKZ3zRy+4SfpQ9ftSEK4ciJOPxwkLvpB50gISNc6TjYApgpWquRQZinZWneVsbG4IWgBEEMg==
+    size: 83463969
+path: shubo_1.1.2_win32_x64_installer.exe
+sha512: se+VuES0+xotjdaKZ3zRy+4SfpQ9ftSEK4ciJOPxwkLvpB50gISNc6TjYApgpWquRQZinZWneVsbG4IWgBEEMg==
 releaseNotes: |
   这是更新日志
   测试测试
-releaseDate: '2025-02-12T09:27:27.232Z'
+releaseDate: '2025-02-13T02:27:12.865Z'
